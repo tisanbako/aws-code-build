@@ -1,4 +1,4 @@
-{.
+{
     "Description":"Automate provisioning of CodeBuild with CodePipeline, CodeCommit, and CodeDeploy. **WARNING** This template creates one or more Amazon EC2 instances. You will be billed for the AWS resources used if you create a stack from this template.",
     "AWSTemplateFormatVersion":"2010-09-09",
     "Parameters":{
